@@ -4,6 +4,7 @@
 The project titled Library Management System is Library management software for monitoring and controlling the transactions in a library .The project “Library Management System” is developed in java, which mainly focuses on basic operations in a library like adding new member, new books, and updating new information, searching books and members and facility to borrow and return books.The software Library Management System has four main modules. Insertion to Database Module – User friendly input screen. Extracting from Database module – Attractive Output Screen. Report Generation module – borrowed book list & Available book list. Search Facility system – search for books and members.
 
 ## Features Of The Library Management System
+
 #### Menu driven: Project consists of various menus through which we can put required options.
 #### Validations: There are proper validations for the information filled in the relevant field. Therefore, the chance of wrong entry saved is minimize.
 #### Reports: The reports for the required information can be generate easily by just clicking the button to get details. Reports can be printed.
